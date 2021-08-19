@@ -1,4 +1,4 @@
-# Proceso-Tanques-Rockwell
+# Proceso-Tanques-Rockwell-Studio5000
 Código desarrollado para probar los actuadores del módulo de Rockwell de la UTEC con sus respectivos interlocks para evitar derrames de los tanques y daños en la bomba.
 
 Conunbit(INICIO=1)
