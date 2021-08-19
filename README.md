@@ -15,7 +15,7 @@ comenzar la ejecución de la siguiente secuencia:
 - Conunbit(INICIO=0) apagar el variador y cerrar todas las válvulas
 
 INTERLOCKS DE SEGURIDAD:
-- LAH(NivelT10>=300mm)--> Cerrar EV10
+- LAH(NivelT10>=300mm)--> Cerrar DV10
 - LAHH(NivelT10>=350mm)--> Apagar Bomba
-- LAHH(SwitchNivelAltoT20Activo)--> Cerrar EV20 y EV30
+- LAHH(SwitchNivelAltoT20Activo)--> Cerrar DV20 y DV30
 - LALL(SwitchNivelBajoT20Activo)--> ApagarBomba
